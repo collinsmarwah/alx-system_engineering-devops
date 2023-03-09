@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +X .
+sudo chown -h vincent:staff _hello
